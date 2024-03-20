@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iot</string>
+    <string name="splash_subtitle" />
+    <string name="enter_your_username">Enter your username</string>
+    <string name="login">Login</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="welcome_user">Welcome, User!</string>
+    <string name="no_data_available">No data available</string>
+</resources>
